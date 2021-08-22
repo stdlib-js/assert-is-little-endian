@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-little-endian",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Check if an environment is little endian.",
   "license": "Apache-2.0",
   "author": {
