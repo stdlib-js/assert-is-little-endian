@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@esm/index.mjs';
+import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@v0.2.0-esm/index.mjs';
 ```
 
 #### IS_LITTLE_ENDIAN
@@ -70,7 +70,7 @@ var bool = IS_LITTLE_ENDIAN;
 <body>
 <script type="module">
 
-import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@esm/index.mjs';
+import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@v0.2.0-esm/index.mjs';
 
 console.log( IS_LITTLE_ENDIAN );
 // => <boolean>
