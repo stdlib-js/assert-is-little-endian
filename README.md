@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-little-endian/tags). For example,
+
+```javascript
 import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@v0.2.3-deno/mod.js';
 ```
 
@@ -65,7 +70,7 @@ var bool = IS_LITTLE_ENDIAN;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@v0.2.3-deno/mod.js';
+import IS_LITTLE_ENDIAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-little-endian@deno/mod.js';
 
 console.log( IS_LITTLE_ENDIAN );
 // => <boolean>
