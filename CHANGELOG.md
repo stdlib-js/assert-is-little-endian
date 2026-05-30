@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-27)
+## Unreleased (2026-05-30)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2c9a456`](https://github.com/stdlib-js/stdlib/commit/2c9a456818d3384d8e3088f5841aa61047296cf8) - **docs:** document exported constants [(#12371)](https://github.com/stdlib-js/stdlib/pull/12371) _(by Philipp Burckhardt)_
 -   [`95a8c41`](https://github.com/stdlib-js/stdlib/commit/95a8c41a2a5313aea289e722bed88bc888454233) - **fix:** use correct argument value in error message and propagate JSDoc fixes to sibling packages [(#12302)](https://github.com/stdlib-js/stdlib/pull/12302) _(by Philipp Burckhardt)_
 
 </details>

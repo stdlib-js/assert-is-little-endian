@@ -1,4 +1,4 @@
-"use strict";var e=function(t,r){return function(){return r||t((r={exports:{}}).exports,r),r.exports}};var u=e(function(p,i){"use strict";var o=require("@stdlib/array-uint8"),c=require("@stdlib/array-uint16"),x={uint16:c,uint8:o};i.exports=x});var v=e(function(A,a){"use strict";var n=u(),s;function q(){var t,r;return t=new n.uint16(1),t[0]=4660,r=new n.uint8(t.buffer),r[0]===52}s=q();a.exports=s});var w=v();module.exports=w;
+"use strict";var e=function(t,r){return function(){return r||t((r={exports:{}}).exports,r),r.exports}};var u=e(function(p,i){"use strict";var v=require("@stdlib/array-uint8"),o=require("@stdlib/array-uint16"),c={uint16:o,uint8:v};i.exports=c});var a=e(function(A,s){"use strict";var n=u();function x(){var t,r;return t=new n.uint16(1),t[0]=4660,r=new n.uint8(t.buffer),r[0]===52}var q=x();s.exports=q});var w=a();module.exports=w;
 /**
 * @license Apache-2.0
 *
